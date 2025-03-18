@@ -55,7 +55,7 @@
 ###  Now you are free to add your personal data, images, resume and social links
 
 # Icons
-### Get appropriate Icons for your page at [remixicon.com](https://remixicoCn.com)
+### Get appropriate Icons for your page at [remixicon.com](https://remixicon.com)
 ### Social Icons and links are located in 3 sections: {.nav-menu .social-links) {.home-socials .social-links} {.footer-socials .social-links}
    \
    \
