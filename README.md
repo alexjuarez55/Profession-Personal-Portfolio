@@ -38,5 +38,12 @@
 
 # Icons
 ### Get appropriate Icons for your page at [remixicon.com](https://remixicoCn.com)
-      
+Social Icons and links are located in 3 sections: {.nav-menu .social-links) {.home-socials .social-links} {.footer-socials .social-links}
+      \
+      \
+      \
+      \
+      \
+      \
+      \
       
