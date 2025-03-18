@@ -1,7 +1,6 @@
 # Profession-Personal-Portfolio
 ### For an established freelance developer and entreprenuers
-## Show your suppor:
-@ [BuyMeACoffee.com/alexjuarez55](buymeacoffee.com/alexjuarez55)
+## Show your support: @ buymeacoffe.com/alexjuarez55 or click the support button of this repository
 \
 \
 \
